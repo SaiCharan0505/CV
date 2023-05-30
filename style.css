@@ -1,0 +1,45 @@
+
+h1 {
+    color: #03001C;
+    font-weight: 400;
+}
+html {
+    background-image:linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5));
+    font-family: quicksand;
+    font-weight: 500;
+    
+}
+strong {
+    color: #03001C;
+}
+a {
+    color:blue; 
+}
+li strong {
+    color: blueviolet;
+}
+p{
+    color: #301E67;
+}
+ul li{
+    color:#301E67;
+}
+table td{
+    color: #301E67;
+}
+form lable {
+    color: #301E67;
+}
+form input{
+    color: #301E67;
+}
+form p{
+    color: #301E67;
+}
+form input{
+    color: #301E67;
+    background-color:whitesmoke;
+}
+hr{
+    height:2px;border-width:0;color:#5B8FB9;background-color:#5B8FB9;
+}
